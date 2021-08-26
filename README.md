@@ -17,7 +17,7 @@ Here are some example results:
 ![Screenshot](docs/long_route.PNG)
 
 
-The genetic algorithm will find a better solution than the nearest neighbor approach.
+The genetic algorithm found a better solution than the nearest neighbor approach.
 With increasing city count the genetic algorithm will get worse.
 In my experiments the genetic algorithm started to get way worse at about 30 cities.
 For the everyday use or to plan your next round trip this script should suffice.
