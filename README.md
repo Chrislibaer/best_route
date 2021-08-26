@@ -10,7 +10,7 @@ e.g.: python3 main.py Berlin Hamburg Mainz
 
 -> this will calculate the best route from Berlin to Berlin while visiting Hamburg and Mainz exactly once.
 
-Here are some examples:
+Here are some example results:
 
 ![Screenshot](docs/easy_route.PNG)
 ![Screenshot](docs/medium_route.PNG)
